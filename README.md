@@ -14,3 +14,6 @@ User Interface that interacts with the applications
 e.g MVVM-C
 
 <img width="529" alt="Screenshot 2023-11-29 at 7 25 20 PM" src="https://github.com/mikesMinay/MVVM-C-RepositoryPattern/assets/41361621/fc387e39-c1d0-4100-96f8-5cc0d0a54fab">
+
+## Screenshot:
+https://github.com/mikesMinay/MVVM-C-RepositoryPattern/assets/41361621/e5e0ac0f-279b-4848-b461-37cbae7333aa
