@@ -5,7 +5,7 @@ Note: This App is using Stinsen for coordinator pattern https://github.com/rundf
 ## Repository Pattern.
 ### Data Layer:  
 responsible for coordinating data from the different Data Sources.
-e.g DataSource
+e.g Data Source (Networking, Database or other sources)
 ### Domain Layer: 
 Encapsulating complex business logic that is reused by the Presentation layer
 e.g UseCase
