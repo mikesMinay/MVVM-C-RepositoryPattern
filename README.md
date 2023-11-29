@@ -1,5 +1,6 @@
 # MVVM-C-RepositoryPattern
 Sample template for MVVM-C plus Repository Pattern
+Note: This App is using Stinsen for coordinator pattern https://github.com/rundfunk47/stinsen
 
 ## Repository Pattern.
 ### Data Layer:  responsible for coordinating data from the different Data Sources.
